@@ -1,14 +1,15 @@
-# DragonStone Store
+# DragonStone Store: This was a project for my 3rd year module ITECA3-34
 
 **DragonStone Store** is a robust, full-stack e-commerce platform built entirely with core **PHP and MySQL**, designed to highlight sustainable and eco-friendly shopping. It tracks "product carbon emissions" alongside standard e-commerce features, blending modern UI/UX with a meaningful theme.
 
 This project was built from the ground up without heavy frameworks to demonstrate a deep understanding of core web development concepts, including backend logic, relational database design, session management, and frontend styling.
 
 ## Screenshots
+<img width="300" alt="Screenshot_20251031_190345_Chrome 1" src="https://github.com/user-attachments/assets/7a97a12f-1868-4e97-82e4-df08e7ad329c" />
+<img width="300" alt="Screenshot_20251031_190354_Chrome 1" src="https://github.com/user-attachments/assets/23fcbd02-31ad-4244-8583-beea5ac53f71" />
+<img width="300" alt="Screenshot_20251031_190415_Chrome 1" src="https://github.com/user-attachments/assets/a737dee9-6a4c-464b-9c79-2d7757be3ac8" />
 
-<!-- Add your screenshots here. For example: -->
-<!-- ![Homepage](Project%20Sreenshots/homepage.png) -->
-*(Replace this section with your actual project screenshots)*
+
 
 ## Key Features
 
