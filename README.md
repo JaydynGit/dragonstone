@@ -1,4 +1,4 @@
-# DragonStone Store: This was a project for my 3rd year module ITECA3-34
+# DragonStone: An Eco-friendlty e-commerce store.
 
 **DragonStone Store** is a robust, full-stack e-commerce platform built entirely with core **PHP and MySQL**, designed to highlight sustainable and eco-friendly shopping. It tracks "product carbon emissions" alongside standard e-commerce features, blending modern UI/UX with a meaningful theme.
 
